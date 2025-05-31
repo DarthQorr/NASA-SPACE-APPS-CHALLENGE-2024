@@ -4,4 +4,4 @@ This is a program that predicts when a quake begins using data from the provided
 The Unity file is avalable in the following Google Drive folder: 
 https://drive.google.com/drive/folders/1fZ4a5a1usPYgquFGGjRPe-eke2HGu7D6?usp=sharing 
 
-It must be donwloaded and used as a single folder.
+It must be downloaded and used as a single folder.
